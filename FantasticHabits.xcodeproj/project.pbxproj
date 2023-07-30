@@ -16,6 +16,7 @@
 		E858267D2A725B8A00C2EE4F /* FantasticHabitsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E858267C2A725B8A00C2EE4F /* FantasticHabitsTests.swift */; };
 		E85826872A725B8A00C2EE4F /* FantasticHabitsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85826862A725B8A00C2EE4F /* FantasticHabitsUITests.swift */; };
 		E85826892A725B8A00C2EE4F /* FantasticHabitsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85826882A725B8A00C2EE4F /* FantasticHabitsUITestsLaunchTests.swift */; };
+		E85826962A73CE4700C2EE4F /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85826952A73CE4700C2EE4F /* AddItemViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E85826822A725B8A00C2EE4F /* FantasticHabitsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FantasticHabitsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E85826862A725B8A00C2EE4F /* FantasticHabitsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticHabitsUITests.swift; sourceTree = "<group>"; };
 		E85826882A725B8A00C2EE4F /* FantasticHabitsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticHabitsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E85826952A73CE4700C2EE4F /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E858266E2A725B8A00C2EE4F /* Assets.xcassets */,
 				E85826702A725B8A00C2EE4F /* LaunchScreen.storyboard */,
 				E85826732A725B8A00C2EE4F /* Info.plist */,
+				E85826952A73CE4700C2EE4F /* AddItemViewController.swift */,
 			);
 			path = FantasticHabits;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E858266A2A725B8800C2EE4F /* ViewController.swift in Sources */,
+				E85826962A73CE4700C2EE4F /* AddItemViewController.swift in Sources */,
 				E85826662A725B8800C2EE4F /* AppDelegate.swift in Sources */,
 				E85826682A725B8800C2EE4F /* SceneDelegate.swift in Sources */,
 			);
